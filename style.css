@@ -1,0 +1,41 @@
+.maindiv{
+    height: 600px;
+    width: 38%;
+    margin-left: 30%;
+
+}
+.flag{
+    height: 150px;
+    width: 350px;
+    background-color: green;
+    text-align: center;
+    padding: 40px;
+    margin-left: 40px;
+    box-shadow: 2px 3px 3px rgba(26, 23, 23, 0.9);
+
+
+}
+.red{
+    height: 150px;
+    width: 150px;
+    background: rgb(255, 0, 0);
+    border-radius: 50%;
+    display: inline-block;
+
+}
+.bas{
+    height: 300px;
+    width: 20px;
+    background-color: rgb(10, 9, 9);
+    margin-left: 40px;
+    box-shadow: 2px 3px 3px rgba(71, 67, 67, 0.9);
+    
+}
+
+.tola{
+    height: 50px;
+    width: 100px;
+    background-color: rgb(10, 9, 9);
+    box-shadow: 2px 3px 3px rgba(218, 206, 206, 0.9);
+}
+
